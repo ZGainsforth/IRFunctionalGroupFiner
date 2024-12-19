@@ -1,0 +1,139 @@
+,min eV,max eV,Group,Name,Notes,Ref
+1,282.8,283.2,C*,Amorphous C,,"1,2"
+2,283.5,283.9,C=C*-C,p-Benzoquinone C=C*–C=O,,3
+3,284.1,284.3,C=C*-C,Quinone C=C*–C=O,,4
+4,284.1,284.3,[Ar]C*–H,Protonated aromatic [Ar]C*–H,,4
+5,284.6,284.7,sp2,Amorphous C (sp2),,"5,6"
+6,284.9,285.4,[Ar]C*–R,Alkylated aromatic [Ar]C*–R,,"7,8"
+7,284.9,285.4,[Ar]C*–H,Protonated aromatic [Ar]C*–H,,"7,8"
+8,285.0,285.3,C*=C,Aromatic C*=C,,"9,10,11"
+9,285.2,285.4,sp2,Graphite C (sp2),,"12,13,14,15"
+10,285.7,286.0,C*=N,Imine C*=N,,"16,17"
+11,285.7,286.2,C*=O,Aromatic carbonyl [Ar]C*=O,,18
+12,285.8,286.2,C*,Amorphous C,,12
+13,285.8,286.2,C=C*-C,p-Benzoquinone C=C*–C=O,,3
+14,286.0,286.2,C=C*-C,Conjugated ketone C=C*–C=O,,"10,11"
+15,286.8,287.0,C*≡N,Nitrile C*≡N,,"10,15,16,19,20"
+16,286.8,287.0,C*=N,Pyridine C*=N,,21
+17,286.8,287.0,C*=O,Ketone C*=O,,"4,22,23"
+18,286.8,287.1,C*–H,Aliphatic C–C*–H,,15
+19,287.0,287.5,C*–OH,Aromatic alcohol [Ar]C*–OH,,"3,4"
+20,287.0,287.5,C*=O,Aliphatic ketone C–C*=O,,"24,25"
+21,287.1,288.0,C*–OH,Enol C=C*–OH,,10
+22,287.2,288.3,C*–C,Aliphatic C*–C,,"10,22,24,26,27"
+23,287.3,287.7,C*–H,Aliphatic C*–H,,11
+24,287.7,288.3,C*=O,Aromatic carbonyl [Ar]–C*=O,,18
+25,287.8,288.3,C*–N,Amide O=C*–NHx,,"10,23"
+26,287.9,288.2,C*=C,Benzene [Ar]C*,,6
+27,288.0,288.8,C*=O,Carboxylic acid O=C*–OH,,"6,23,24,28"
+28,288.6,289.0,sp3,Diamond (C sp3),,12
+29,288.9,289.2,sp3,Amorphous C (sp3),,6
+30,288.9,289.4,C*-H,Alcohol C*Hx–OR,,"4,24,25"
+31,288.9,289.7,C*,Urea group (NHx)2C*=O,,10
+32,289.4,289.7,C*,Secondary alcohol R2C*H–OH,,11
+33,289.5,290.1,C*,Amorphous C (sp3),,6
+34,290.1,290.1,C*=C,Alkene C*=C,,29
+35,290.3,294.6,C*,Carbonate R–O(C*=O)O–R,,"10,30"
+36,290.4,290.8,C*,Pyridine C*–N (sp2),,15
+37,290.6,290.8,C*,Amorphous C,,6
+38,290.6,290.8,C*,p-Benzoquinone C=C*–C=O,,3
+39,290.6,290.8,C*,Fullerene C60,,31
+40,291.2,291.9,C*,Graphite C*–C,,6
+41,293.4,293.8,C*,p-Benzoquinone C=C*–C=O,,3
+42,293.4,293.8,C*,p-Benzoquinone C=C–C*=O,,3
+43,398.2,399.0,C=N*,Pyridine C=N*,,"1,2"
+44,398.2,399.1,C=N*,Imine C=N*,,"3,4,5"
+45,399.0,399.3,N*,Heterocyclic nitrogen (‘center’),,1
+46,399.2,399.6,N*,Amine C–N*H2,,1
+47,399.3,399.8,C≡N*,Nitrile (aliphatic) C≡N*,,"1,2,4,5,6"
+48,399.6,399.9,N*,Pyridine amine [Py]–N*H2,,"7,8,9"
+49,399.8,400.0,C≡N*,Nitrile (aromatic) C≡N*,,8
+50,399.9,400.2,N*,Nitroso group C–N*=O,,1
+51,400.2,400.5,C=N*,Pyridine,,1
+52,400.2,400.6,C=N*,Pyrrole,,1
+53,400.5,401.2,N*,Nitrogen in graphene,,10
+54,400.6,400.8,N*,Protonated imine C=N*H+,,11
+55,400.6,401.1,N*,Pyridone [Py*]C=O,,"1,9"
+56,400.9,401.2,C≡N*,Nitrile (aromatic) C≡N*,,8
+57,400.9,401.7,N*,Quaternary nitrogen N*R4+,,"1,8"
+58,401.0,401.3,N*,Amide O=C–N*Hx,,"4,5,12,13"
+59,401.0,401.4,N*,Heterocyclic nitrogen (‘valley’),,1
+60,401.1,401.4,N*,Amine C–N*Hx,,12
+61,401.3,401.6,C≡N*,Nitrile (aliphatic) C≡N*,,8
+62,401.3,401.7,N*,Nitrogen in graphene,,14
+63,401.4,401.9,N*,Amide (peptide) O=C–N*HR,,"4,5,12,13"
+64,401.4,402.1,N*,Pyridone [Py*]C=O,,"1,9"
+65,401.6,401.9,N*,Urea group (N*Hx)2C=O,,15
+66,402.1,402.6,N*,Amine C–N*Hx,,5
+67,402.3,404.0,N*,Pyrrole,,"7,8,9,12"
+68,402.5,402.8,N*,Oxidized pyrrole,,7
+69,402.8,403.2,N*,Urea group (N*Hx)2C=O,,5
+70,402.8,403.2,N*,Carbazole,,7
+71,402.9,403.4,N*,Pyridine N-oxide [Py]–N⁺*–O⁻,,"1,8"
+72,403.2,403.5,N*,Porphyrin,,7
+73,403.3,403.5,C≡N*,Nitrile C≡N*,,9
+74,403.4,403.5,N*,Diacylimide [R–(C=O)]2N*H,,16
+75,403.4,403.5,N*,Pyridone [Py*]C=O,,9
+76,403.4,403.8,N*,Nitro group C–N*O2,,12
+77,403.5,404.0,N*,Aromatic nitro group [Ar]–N*O2,,"4,12,17"
+78,403.8,403.9,N*,Pyridine,,8
+79,403.8,404.0,N*,Carbazole,,8
+80,404.8,405.0,N*,Aromatic amine [Ar]–N*H2,,"7,8"
+81,404.8,405.0,N*,Pyridine N-oxide [Py]–N⁺*–O⁻,,8
+82,405.3,405.5,N*,Nitrate N*O3⁻,,4
+83,405.9,406.2,N*,Nitro group C–N*O2,,1
+84,406.0,406.5,N*,Saturated amine N*R3,,"7,8"
+85,407.0,407.2,N*,Pyridine,,10
+86,407.0,407.2,N*,Nitrogen in graphene,,10
+87,407.4,407.8,N*,Saturated amine N*R3,,"7,8"
+88,530.0,530.0,O*,p-Benzoquinone [Ar]C=O*,,1
+89,530.0,530.0,O*,9-Anthraldehyde C=O*,,2
+90,530.0,530.2,O*,9-Acetylnanthracene O*=C–CH3,,2
+91,530.0,530.2,O*,PVMA O*=C–CH3,,2
+92,531.0,531.0,C=O*,Ketone C=O*,,"3,4"
+93,531.0,531.0,O*,Formaldehyde C=O*,,"5,6"
+94,531.0,531.0,O*,Benzaldehyde [Ar]C=O*,,7
+95,531.0,531.0,O*,1-Naphthic acid C=O*,,2
+96,531.0,531.0,O*,PEAMA C=O*,,2
+97,531.0,531.0,O*,PAA C=O*,,2
+98,531.6,531.6,O*,Ethyl benzoate O*=C–O–C2H5,,7
+99,532.1,532.2,O*,Amide O*=C–NHx,,8
+100,532.1,532.3,O*,Carboxyl O–C=O*,,"3,9"
+101,532.1,532.3,O*,Methyl formate O*=C–O–CH3,,7
+102,532.2,532.3,O*,Amino acids O–C=O*,,10
+103,532.9,533.1,O*,Phthalic anhydride O*–C=O,,2
+104,532.9,533.1,O*,1-Naphthoic acid O=C–O*–H,,2
+105,533.1,533.1,O*,p-Benzoquinone [Ar]C=O*,,1
+106,533.5,533.5,O*,Benzaldehyde [Ar]C=O*,,7
+107,533.5,533.5,O*,Terephthalaldehyde C=O*,,7
+108,533.5,533.5,O*,PAA O=C–O*–H,,2
+109,534.1,534.2,O*,Alcohol HxC–O*–H,,"3,11"
+110,534.1,534.2,O*,Carbonate CO*3,,12
+111,534.1,534.2,O*,"Asp, Glu O=C–O*–H",,10
+112,534.2,534.2,O*,Ethyl benzoate O*=C–O–C2H5,,7
+113,534.2,534.2,O*,Ethyl benzoate O=C–O*–C2H5,,7
+114,534.7,534.7,O*,PVP [Ar]C=O*,,2
+115,534.7,535.0,O*,Enol C=C–O*–H,,3
+116,534.9,535.3,O*,Methyl formate O*=C–O–CH3,,7
+117,534.9,535.3,O*,Methyl formate O=C–O*–CH3,,7
+118,535.4,535.6,O*,Formaldehyde C=O*,,"5,6"
+119,536.2,536.2,O*,Formaldehyde C=O*,,"5,6"
+120,536.2,536.2,O*,Terephthalaldehyde C=O*,,7
+121,536.9,537.0,O*,Methyl cellulose,,2
+122,536.9,537.0,O*,Methyl formate O=C–O*–CH3,,7
+123,536.9,537.0,O*,PVA C–O*–H,,
+124,537.3,537.6,O*,Benzaldehyde [Ar]C=O*,,7
+125,537.3,537.6,O*,Ethyl benzoate O=C–O*–C2H5,,7
+126,537.6,537.6,O*,Formaldehyde C=O*,,"5,6"
+127,538.2,538.3,O*,p-Benzoquinone [Ar]C=O*,,1
+128,538.2,539.3,O*,"'Ser, Thr, Tyr, Hyp C-O*-H’",,"10,"
+129,540.7,540.9,O*,Ethyl benzoate O=C–O*–C2H5,,7
+130,540.9,541.0,O*,Methyl formate O=C–O*–CH3,,7
+131,541.9,548.6,O*,Amino acids O–C=O*,,10
+132,542.5,542.7,O*,p-Benzoquinone [Ar]C=O*,,1
+133,544.1,544.1,O*,Formaldehyde C=O*,,"5,6"
+134,544.1,544.1,O*,Benzaldehyde [Ar]C=O*,,7
+135,544.1,544.1,O*,Terephthalaldehyde C=O*,,7
+136,546.1,546.2,O*,Ethyl benzoate O*=C–O–C2H5,,7
+137,546.9,547.2,O*,Methyl formate O*=C–O–CH3,,7
+138,553.9,554.1,O*,p-Benzoquinone [Ar]C=O*,,1
